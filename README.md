@@ -7,5 +7,8 @@ https://66d86a6a93eedbc40e81b9a2--bespoke-blancmange-dec32d.netlify.app/
 task 23 netlify link
 https://66e05afb3cbb723a1cd76cea--effervescent-heliotrope-f6fc04.netlify.app/
 
+task 24 netlify link 
+https://app.netlify.com/sites/melodic-flan-120351/deploys/66e5b46fb3a8648f775196f2
+
 password generator netlify link:
 https://66c74c9b361cdf3a4ee6aecc--jolly-donut-118437.netlify.app/
